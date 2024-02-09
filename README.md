@@ -17,7 +17,7 @@ Fun fact... idk how to code :b
 
 ### 🌐Socials
 
-[Discord (User)](http://discord.com/users/239809113125552129)
-[Steam](http://steamcommunity.com/id/Snupai)
-[Twitter](https://twitter.com/Snupai)
-[Bluesky](https://bsky.app/profile/snupai.bsky.social)
+[![](https://img.shields.io/badge/-5c5c5c?style=flat&logo=discord&label=%40snupai&color=9a9a9a)](http://discord.com/users/239809113125552129)
+[![](https://img.shields.io/badge/-5c5c5c?style=flat&logo=steam&label=Snupai&color=9a9a9a)](http://steamcommunity.com/id/Snupai)
+[![](https://img.shields.io/twitter/follow/Snupai?style=flat&logo=twitter)](https://twitter.com/Snupai)
+[![](https://img.shields.io/twitter/follow/snupai.bsky.social?style=flat&logo=bluesky)](https://bsky.app/profile/snupai.bsky.social)
