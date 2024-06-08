@@ -4,7 +4,7 @@ Fun fact... idk how to code :b
 
 ### 🐾Visitor
 
-![:Snupai](https://count.getloli.com/get/@snupai?theme=rule34)
+![:Snupai](https://count.ayaya.beauty/get/@snupai?theme=rule34)
 
 ### 🎵NowPlaying (Spotify)
 
