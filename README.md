@@ -8,7 +8,7 @@ Fun fact... idk how to code :b
 
 ### 🎵NowPlaying (Spotify)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=835vzb5j2dgkkjp05whasx6kl&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=d7a8cd&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=835vzb5j2dgkkjp05whasx6kl&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=835vzb5j2dgkkjp05whasx6kl&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=835vzb5j2dgkkjp05whasx6kl&redirect=true)
 
 ### Idk
 
