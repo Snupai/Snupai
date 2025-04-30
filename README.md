@@ -19,5 +19,5 @@ Fun fact... idk how to code :b
 
 [![](https://img.shields.io/badge/-5c5c5c?style=flat&logo=discord&label=%40snupai&color=9a9a9a)](http://discord.com/users/239809113125552129)
 [![](https://img.shields.io/badge/-5c5c5c?style=flat&logo=steam&label=Snupai&color=9a9a9a)](http://steamcommunity.com/id/Snupai)
-[![](https://img.shields.io/twitter/follow/Snupai?style=flat&logo=twitter)](https://twitter.com/Snupai)
+[![](https://img.shields.io/twitter/follow/Snupai?style=flat)](https://twitter.com/Snupai)
 [![](https://img.shields.io/twitter/follow/snupai.moe?style=flat&logo=bluesky)](https://bsky.app/profile/snupai.moe)
