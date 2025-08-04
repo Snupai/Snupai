@@ -155,6 +155,34 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Snupai&theme=onestar&no-frame=true&margin-w=10&margin-h=10&column=6&title=Stars,Followers,Commits,Issues,PullRequest,Repositories" alt="Trophies" />
 </p>
 
+
+---
+	
+### 🫶 Maybe… if you wanna support me…?
+	
+<p align="center">
+  <samp>
+    um… h-hi… if you enjoy my lil projects and wanna toss a coin to your catgirl dev,
+    you can… but p-please don’t feel like you have to, okay? headpats are enough too :3
+  </samp>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sponsors/Snupai">
+    <img
+      alt="Sponsor Snupai"
+      src="https://img.shields.io/badge/Sponsor-%F0%9F%92%96-313244?style=for-the-badge&labelColor=1e1e2e&logo=githubsponsors&logoColor=f5c2e7&color=313244"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    alt="Thank you"
+    src="https://img.shields.io/badge/thank%20you-nyan~-313244?style=flat&labelColor=1e1e2e&logo=sparkles&logoColor=b4befe&color=313244"
+  />
+</p>
+
 ---
 
 ### 🐱 Meow-ffline goodies
