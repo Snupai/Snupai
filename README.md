@@ -160,12 +160,21 @@
 	
 ### 🫶 Maybe… if you wanna support me…?
 	
-<p align="center">
-  <samp>
-    um… h-hi… if you enjoy my lil projects and wanna toss a coin to your catgirl dev,
-    you can… but p-please don’t feel like you have to, okay? headpats are enough too :3
-  </samp>
-</p>
+<div align="center">
+  <div
+    style="
+      max-width: 520px;
+      margin: 0 auto;
+      line-height: 1.6;
+    "
+  >
+    <samp>
+      um… h-hi… if you enjoy my lil projects and wanna toss a coin to your
+      catgirl dev, you can… but p-please don’t feel like you have to, okay?
+      headpats are enough too :3
+    </samp>
+  </div>
+</div>
 
 <p align="center">
   <a href="https://github.com/sponsors/Snupai">
