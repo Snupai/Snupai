@@ -129,6 +129,21 @@
 
 ---
 
+### 🤝 I sponsor
+
+<p align="center">
+  <!-- Replace usernames below with the accounts you sponsor -->
+  <a href="https://github.com/Lulalaby">
+    <img
+      src="https://images.weserv.nl/?url=github.com/Lulalaby.png&w=72&h=72&fit=cover&mask=circle"
+      alt="Lulalaby"
+      title="Lulalaby"
+    />
+  </a>
+</p>
+
+---
+
 ### 💖 Shoutouts
 
 - [custom-nothing-glyph-tools](https://github.com/SebiAi/custom-nothing-glyph-tools) — Custom glyphs for Nothing Phones.  
