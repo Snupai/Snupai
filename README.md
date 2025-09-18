@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://count.ayaya.beauty/get/@snupai?theme=rule34" alt="Visitor Counter" />
+  <img src="https://count.getloli.com/@snupai?theme=booru-lewd&render=auto" alt="Visitor Counter" />
 </p>
 
 ---
@@ -70,12 +70,12 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Snupai&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=dracula&text_color=c6d0f5&bg_color=1e1e2e&title_color=b4befe&icon_color=94e2d5"
+    src="https://github-readme-stats-snupai.vercel.app/api?username=Snupai&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=dracula&text_color=c6d0f5&bg_color=1e1e2e&title_color=b4befe&icon_color=94e2d5"
     alt="GitHub Stats"
     height="165"
   />
   <img
-    src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=Snupai&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=dracula&title_color=b4befe&bg_color=1e1e2e&text_color=cdd6f4"
+    src="https://github-readme-stats-snupai.vercel.app/api/top-langs/?username=Snupai&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=dracula&title_color=b4befe&bg_color=1e1e2e&text_color=cdd6f4"
     alt="Top Languages"
     height="165"
   />
@@ -197,7 +197,7 @@
 ### 🐱 Meow-ffline goodies
 
 - I sometimes write about Tech stuff, tools, and automation nerdiness
-- If you pet me, I ship features faster. Headpats accepted here ⟶ <a href="https://snupai.moe">snupai.moe</a> nya~
+- If you pet me, I ship features faster. Headpats accepted here ⟶ <a href="https://snupai.me">snupai.moe</a> nya~
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:313244,100:1e1e2e&height=120&section=footer&text=Thanks%20for%20visiting%20%F0%9F%90%B6&fontColor=cdd6f4&fontSize=24" alt="Footer" />
